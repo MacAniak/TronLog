@@ -1,0 +1,96 @@
+2024-05-01 11:10:37.279   Log opened. (Time zone: UTC+02:00)
+2024-05-01 11:10:37.279   Setup version: Inno Setup version 5.5.6 (a)
+2024-05-01 11:10:37.279   Original Setup EXE: C:\Users\Macaniak\Desktop\resources\stage_3_disinfect\mbam\mbam2-rules.exe
+2024-05-01 11:10:37.279   Setup command line: /SL5="$6018C,10937194,56832,C:\Users\Macaniak\Desktop\resources\stage_3_disinfect\mbam\mbam2-rules.exe" /sp- /verysilent /suppressmsgboxes /log="C:\logs\tron\raw_logs\mbam_rules_install.log" /norestart
+2024-05-01 11:10:37.279   Windows version: 10.0.22631  (NT platform: Yes)
+2024-05-01 11:10:37.279   64-bit Windows: Yes
+2024-05-01 11:10:37.279   Processor architecture: x64
+2024-05-01 11:10:37.279   User privileges: Administrative
+2024-05-01 11:10:37.280   64-bit install mode: No
+2024-05-01 11:10:37.283   Created temporary directory: C:\Users\Macaniak\AppData\Local\Temp\is-OSJG7.tmp
+2024-05-01 11:10:37.330   Starting the installation process.
+2024-05-01 11:10:37.330   Creating directory: C:\Program Files (x86)\Malwarebytes Anti-Malware
+2024-05-01 11:10:37.330   -- File entry --
+2024-05-01 11:10:37.330   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\rules.ref
+2024-05-01 11:10:37.330   Time stamp of our file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.330   Dest file exists.
+2024-05-01 11:10:37.330   Time stamp of existing file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.330   Version of our file: (none)
+2024-05-01 11:10:37.330   Version of existing file: (none)
+2024-05-01 11:10:37.330   Installing the file.
+2024-05-01 11:10:37.377   Successfully installed the file.
+2024-05-01 11:10:37.377   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\rules.ref
+2024-05-01 11:10:37.377   -- File entry --
+2024-05-01 11:10:37.377   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\actions.ref
+2024-05-01 11:10:37.377   Time stamp of our file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.377   Dest file exists.
+2024-05-01 11:10:37.377   Time stamp of existing file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.377   Version of our file: (none)
+2024-05-01 11:10:37.377   Version of existing file: (none)
+2024-05-01 11:10:37.377   Installing the file.
+2024-05-01 11:10:37.377   Successfully installed the file.
+2024-05-01 11:10:37.377   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\actions.ref
+2024-05-01 11:10:37.377   -- File entry --
+2024-05-01 11:10:37.377   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\swissarmy.ref
+2024-05-01 11:10:37.377   Time stamp of our file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.377   Dest file exists.
+2024-05-01 11:10:37.377   Time stamp of existing file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.377   Version of our file: (none)
+2024-05-01 11:10:37.377   Version of existing file: (none)
+2024-05-01 11:10:37.377   Installing the file.
+2024-05-01 11:10:37.377   Successfully installed the file.
+2024-05-01 11:10:37.377   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\swissarmy.ref
+2024-05-01 11:10:37.377   -- File entry --
+2024-05-01 11:10:37.377   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\domains.ref
+2024-05-01 11:10:37.377   Time stamp of our file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.377   Dest file exists.
+2024-05-01 11:10:37.377   Time stamp of existing file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.377   Version of our file: (none)
+2024-05-01 11:10:37.377   Version of existing file: (none)
+2024-05-01 11:10:37.377   Installing the file.
+2024-05-01 11:10:37.393   Successfully installed the file.
+2024-05-01 11:10:37.393   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\domains.ref
+2024-05-01 11:10:37.393   -- File entry --
+2024-05-01 11:10:37.393   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\ips.ref
+2024-05-01 11:10:37.393   Time stamp of our file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.393   Dest file exists.
+2024-05-01 11:10:37.393   Time stamp of existing file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.393   Version of our file: (none)
+2024-05-01 11:10:37.393   Version of existing file: (none)
+2024-05-01 11:10:37.393   Installing the file.
+2024-05-01 11:10:37.393   Successfully installed the file.
+2024-05-01 11:10:37.393   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\ips.ref
+2024-05-01 11:10:37.393   -- File entry --
+2024-05-01 11:10:37.393   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\akadomains.ref
+2024-05-01 11:10:37.393   Time stamp of our file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.393   Dest file exists.
+2024-05-01 11:10:37.393   Time stamp of existing file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.393   Version of our file: (none)
+2024-05-01 11:10:37.393   Version of existing file: (none)
+2024-05-01 11:10:37.393   Installing the file.
+2024-05-01 11:10:37.393   Successfully installed the file.
+2024-05-01 11:10:37.393   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\akadomains.ref
+2024-05-01 11:10:37.393   -- File entry --
+2024-05-01 11:10:37.393   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\akaips.ref
+2024-05-01 11:10:37.393   Time stamp of our file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.393   Dest file exists.
+2024-05-01 11:10:37.393   Time stamp of existing file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.393   Version of our file: (none)
+2024-05-01 11:10:37.393   Version of existing file: (none)
+2024-05-01 11:10:37.393   Installing the file.
+2024-05-01 11:10:37.393   Successfully installed the file.
+2024-05-01 11:10:37.393   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\akaips.ref
+2024-05-01 11:10:37.393   -- File entry --
+2024-05-01 11:10:37.393   Dest filename: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\Configuration\manifest.conf
+2024-05-01 11:10:37.393   Time stamp of our file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.393   Dest file exists.
+2024-05-01 11:10:37.393   Time stamp of existing file: 2019-10-17 09:00:56.000
+2024-05-01 11:10:37.393   Version of our file: (none)
+2024-05-01 11:10:37.393   Version of existing file: (none)
+2024-05-01 11:10:37.393   Installing the file.
+2024-05-01 11:10:37.393   Successfully installed the file.
+2024-05-01 11:10:37.393   Setting permissions on file: C:\ProgramData\Malwarebytes\Malwarebytes Anti-Malware\Configuration\manifest.conf
+2024-05-01 11:10:37.393   Installation process succeeded.
+2024-05-01 11:10:37.393   Need to restart Windows? No
+2024-05-01 11:10:37.393   Deinitializing Setup.
+2024-05-01 11:10:37.408   Log closed.
